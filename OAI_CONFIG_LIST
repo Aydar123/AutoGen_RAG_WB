@@ -1,0 +1,6 @@
+[{
+    "model": "cohere/command-r",
+    "base_url": "https://api.vsegpt.ru/v1/",
+    "api_key": "sk-..."
+}]
+

@@ -1,0 +1,6 @@
+/venv
+/.cache
+/tmp
+/input_data/*.csv
+!/input_data/test.csv
+/presentation
